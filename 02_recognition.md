@@ -13,7 +13,9 @@ permalink: /recognition/
 
 ## Regional
 
-* 2019 Regional Murrow: [Multimedia](https://rtdna.org/content/2019_regional_edward_r_murrow_award_winners#LGR11){: target="_blank"}(team award)
+* 2020 Mid-Atlantic Emmy nomination: [Environment/science](https://www.youtube.com/watch?v=rTZaXcc-OPM&amp;feature=emb_title)
+* 2020 Regional Murrow: [Excellence in Innovation](https://www.dropbox.com/s/2y54lx9qzwz22wz/WITF%27s%20Innovation%20Entry.pdf?dl=0)&nbsp;(team award)
+* 2019 Regional Murrow: [Multimedia](https://rtdna.org/content/2019_regional_edward_r_murrow_award_winners#LGR11){: target="_blank"}&nbsp;(team award)
 * 2018 Regional Murrow: [Investigative Reporting](https://features.witf.org/pipelines/){: target="_blank"}
 * 2017 Regional Murrow: [News Series](http://www.witf.org/portfolio/2017/01/series-the-politics-of-environmental-policy.php){: target="_blank"}
 * 2016 PICPA Truth in Finances: [Radio/TV](https://www.picpa.org/belong-engage/picpa-in-the-news/truth-in-finances-award){: target="_blank"}&nbsp;
