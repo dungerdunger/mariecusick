@@ -15,3 +15,6 @@ sort_order:
 show: true
 ---
 In 2016, the Chester Children’s Chorus, a Pennsylvania group based near Philadelphia, recorded an original song called “I Still Can’t Breathe.” It was their response to the deaths of Trayvon Martin, Eric Garner and other Black Americans. Now teenagers and young adults, the former chorus members see their song as tragically relevant in the wake of George Floyd’s death and Black Lives Matter.
+
+* *Things I did: Remotely produced and edited story, conducted all interviews, research*
+* *Tools I used: Adobe Premiere, Zoom*
