@@ -10,4 +10,4 @@ publication: Weekend Edition
 sort_order: 9
 show: true
 ---
-This time of year, a bakery in Pennsylvania Dutch country is busy making cookies the same way they were made in medieval Germany, and their edible pieces of art history have attracted customers from all over the globe.
+What does a Christmas cookie from centuries ago taste like? This time of year, a bakery in Pennsylvania Dutch country is busy making cookies the same way they were made in medieval Germany, and their edible pieces of art history have attracted customers from all over the globe.
