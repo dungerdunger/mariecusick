@@ -1,6 +1,6 @@
 ---
 image: /assets/cookies.jpg
-embed_text: 
+embed_text:
 categories:
   - radio
 title: Medieval Christmas Cookies Still In Fashion
@@ -10,5 +10,4 @@ publication: Weekend Edition
 sort_order: 9
 show: true
 ---
-
-What does a Christmas cookie from centuries ago look like? This time of year, a bakery in Pennsylvania Dutch country is busy making cookies the same way they were made in medieval Germany, and their edible pieces of art history have attracted customers from all over the globe.
+This time of year, a bakery in Pennsylvania Dutch country is busy making cookies the same way they were made in medieval Germany, and their edible pieces of art history have attracted customers from all over the globe.
