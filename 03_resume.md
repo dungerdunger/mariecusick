@@ -31,7 +31,7 @@ permalink: /resume/
 * Produced documentaries for Pennsylvania PBS member stations
 * Co-wrote $652,000 grant to the Corporation for Public Broadcasting to expand StateImpact Pennsylvania into Pittsburgh in 2017
 
-### Freelance reporter, NPR &nbsp;(2011- 2019)
+### Freelance Reporter, NPR &nbsp;(2011- 2019)
 
 * Filed features and spots for NPR’s newscasts and shows, including All Things Considered, Morning Edition, Weekend Edition.
 * Member of NPR’s [Energy and Environment Collaborative](https://www.npr.org/series/571910677/environment-and-energy-collaborative){: target="_blank"}, which coordinates coverage between the network and select member station reporters around the country
