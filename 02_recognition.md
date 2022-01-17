@@ -6,10 +6,14 @@ permalink: /recognition/
 
 ## National
 
-* 2019 Online News Association: finalist, [Gather Award for Engaged Journalism, Project](https://awards.journalists.org/2019/08/13/2019-online-journalism-awards-finalists-announced/){: target="_blank"} (team award)
-* 2016 Society of Professional Journalists Sigma Delta Chi Award: [audio slideshow](http://www.witf.org/sipa-aftertheboom/){: target="_blank"}
+* 2021 Telly Awards, People's Telly, General-Online Series/Shows/Segments:&nbsp;[Face the Facts: Election 2020 Youth Town Hall](https://www.youtube.com/watch?v=h5LrD2ERWu0) (team award)
+* 2021 Telly Awards, People's Telly, General-Online Series/Shows/Segments:&nbsp;[We the Young People](https://www.youtube.com/watch?v=F57ZeHeXfgY) (team award)
+* 2020 Public Media Awards COVID-19 Education: Making Sense of Coronavirus Through Storytelling and Media Making (team award)
+* 2020 Public Media Awards Content - Education/Schools:[No Labels Attached: Breaking Down Misconceptions and Stereotypes](https://www.youtube.com/watch?v=K934mBKAIDg&amp;list=PLs0_TpcHnO2zdojejNXOou96IUakjk24g)(team award)
+* 2019 Online News Association: finalist: [Gather Award for Engaged Journalism, Project](https://awards.journalists.org/2019/08/13/2019-online-journalism-awards-finalists-announced/){: target="_blank"} (team award)
+* 2016 Society of Professional Journalists, Sigma Delta Chi Award: [audio slideshow](http://www.witf.org/sipa-aftertheboom/){: target="_blank"}
 * 2015 Online News Association: StateImpact Pennsylvania website [finalist, topical reporting](http://journalists.org/2015/08/11/2015-online-journalism-awards-finalists-announced/){: target="_blank"}&nbsp;(team award)
-* 2014 National Edward R. Murrow Award: [hard news reporting](https://stateimpact.npr.org/pennsylvania/2013/04/29/in-sunbury-drilling-waste-politics-and-a-pile-of-dirt/){: target="_blank"}
+* 2014 National Edward R. Murrow Award:&nbsp;[hard news reporting](https://stateimpact.npr.org/pennsylvania/2013/04/29/in-sunbury-drilling-waste-politics-and-a-pile-of-dirt/){: target="_blank"}
 
 ## Regional
 
