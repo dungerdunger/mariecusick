@@ -8,11 +8,20 @@ permalink: /resume/
 
 ### &nbsp;
 
-### Producer, PBS NewsHour Student Reporting Labs Arlington, Virginia (2019- present)
+### Youth Media Producer, PBS NewsHour Student Reporting Labs (2019- present)
 
-* Work with high school students and teachers around the U.S. to develop the next generation of informed media creators and consumers.
+* Work with schools around the U.S. to develop [the next generation of informed media creators and consumers](https://studentreportinglabs.org/)
+* Mentor student journalists and co-produce multimedia content with them for the PBS NewsHour broadcast, website, and social media
+* Create journalism curriculum for middle school and high school teachers
+* Collaborate with Student Reporting Labs team and PBS NewsHour staff to produce segments for special digital and broadcast programs about issues affecting young people
 
-### Multimedia Reporter, WITF Harrisburg, Pennsylvania (2013- 2019)
+### Freelance Radio Host, WITF&nbsp; (2021- present)
+
+* Serve as the main substitute anchor/host for WITF's daily, live public affairs radio program, [Smart Talk](https://www.witf.org/programs/smart-talk/)
+* WITF is the public media station based in Harrisburg and reaches audiences in over 17 counties in central Pennsylvania
+* Research, write, and produce segments for the show and conduct live interviews
+
+### Multimedia Reporter, WITF&nbsp; (2013- 2019)
 
 * Harrisburg reporter for [StateImpact Pennsylvania](https://stateimpact.npr.org/pennsylvania/author/mariecusick/){: target="_blank"}. The project is a collaboration among four public media entities: WITF in Harrisburg, WHYY in Philadelphia, and WESA and the Allegheny Front in Pittsburgh
 * Traveled throughout Pennsylvania covering state policy, energy, and the environment
@@ -22,12 +31,12 @@ permalink: /resume/
 * Produced documentaries for Pennsylvania PBS member stations
 * Co-wrote $652,000 grant to the Corporation for Public Broadcasting to expand StateImpact Pennsylvania into Pittsburgh in 2017
 
-### Freelance reporter, NPR &nbsp;(2011- 2019)
+### Freelance Reporter, NPR &nbsp;(2011- 2019)
 
 * Filed features and spots for NPR’s newscasts and shows, including All Things Considered, Morning Edition, Weekend Edition.
 * Member of NPR’s [Energy and Environment Collaborative](https://www.npr.org/series/571910677/environment-and-energy-collaborative){: target="_blank"}, which coordinates coverage between the network and select member station reporters around the country
 
-### Multimedia Reporter, WMHT Albany, New York (2011- 2013)
+### Multimedia Reporter, WMHT&nbsp; (2011- 2013)
 
 * Albany reporter for the Innovation Trail, a collaborative project among six public media stations covering the economy and technology in upstate New York
 * Filed television reports for WMHT’s public affairs show, New York NOW, which airs on PBS stations statewide
@@ -37,13 +46,13 @@ permalink: /resume/
 * Optimized all broadcast content for the web and social media
 * Filed multimedia web reports: data visualizations, photo and audio slide shows, and videos
 
-### General Assignment Reporter, Blue Ridge News 11 Ephrata, Pennsylvania (2009-2011)
+### General Assignment Reporter, Blue Ridge News 11&nbsp; (2009-2011)
 
 * Contributed to live nightly local newscasts as general assignment reporter
 * Experienced with live shots in the field
 * Served as fill-in producer/anchor of live, half-hour newscasts
 
-### Multimedia Public Relations Coordinator, Cape Abilities Hyannis, Massachusetts (2008-2009)
+### Multimedia Public Relations Coordinator, Cape Abilities (2008-2009)
 
 * Created multimedia public relations content for Cape Abilities, a nonprofit that supports people with disabilities on Cape Cod
 * Hosted, shot, wrote, and edited web videos profiling Cape Abilities programs
@@ -63,9 +72,8 @@ permalink: /resume/
 
 ## SPECIAL SKILLS
 
-* **Television/video**\: Shoot & edit shorter packages and longer programs for TV and web using non-linear video editing programs, including Final Cut&nbsp; X. Experience producing and hosting television specials.
-* **Radio**\: report and produce spots and features using Marantz and Adobe Audition
-* **Drone:&nbsp;**FAA-licensed sUAS (drone) pilot. Shoot with DJI Phantom 3 Professional
+* **Television/video**\: Shoot & edit shorter packages and longer programs for TV and web using digital editing programs, including Adobe Premiere and Final Cut&nbsp; X. Experience producing and hosting television specials
+* **Radio**\: report, produce, and edit spots and features using Marantz and Adobe Audition
 * **Web/office**\: Create online multimedia content: videos, maps, photo galleries, using WordPress. Microsoft Office programs including Word & Excel
 * **Social media**\: Facebook, Twitter, Instagram, YouTube, LinkedIn
 * **Foreign language**\: French (conversational)
